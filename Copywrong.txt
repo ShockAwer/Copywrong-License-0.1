@@ -1,0 +1,7 @@
+# COPYWRONG PUBLIC LICENSE
+
+> Version 1.0, March 14, 2021
+> Copyright (C) [year] [fullname]
+
+Everyone is permitted to copy and distribute verbatim or modified
+copies of this license document.
