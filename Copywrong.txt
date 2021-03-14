@@ -5,3 +5,8 @@
 
 Everyone is permitted to copy and distribute verbatim or modified
 copies of this license document.
+
+I don't like legal talk, so i'll put it in normal English for you guys.
+You are completely free to use any or all of the components under the following conditions:
+> No credit is required, but when someone asks about it, you are free to say you made it if modified, however modified or not it is required to additionally give credit to the original creator of the work.
+> You cannot sell the unmodified version of a Copywrong licensed work for more than $5, unless if it is sold with things that are paid.
